@@ -1,2 +1,1 @@
-this repo is for all my JAVA STANDALONE DESKTOP APPLICATIONS.....
-thats probally all u wanna know about this repo
+A classic tic tac toe game built using java, implementing javafx library and the programme is available as a .exe file too
